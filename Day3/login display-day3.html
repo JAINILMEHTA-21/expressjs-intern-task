@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+    <body>
+        <form>
+            <p>Name</p>
+            <input type="text" name="txt1" required />
+            <br/>
+            <p>Age</p>
+            <input type="number" name="txt2" required />
+            <br/>
+            <p>Email</p>
+            <input type="email" name="txt3" required />
+            <input type="submit" />
+            <input type="reset" />
+        </form>
+    </body>
+</html>
